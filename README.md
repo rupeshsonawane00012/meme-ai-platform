@@ -1,3 +1,1 @@
-# Meme AI Platform
-
-Production-ready DevOps learning project.
+# meme-ai-platform
